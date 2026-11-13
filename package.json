@@ -1,0 +1,7 @@
+{
+  "name": "pupitre",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pupitre: red social y marketplace universitario. Frontend en Vercel, datos en Google Apps Script + Sheets.",
+  "engines": { "node": ">=18" }
+}
